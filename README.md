@@ -1,2 +1,2 @@
 # END-TO-END
-Mac lrn Deployement project
+capstone projects
